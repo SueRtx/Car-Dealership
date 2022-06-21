@@ -6,9 +6,7 @@ namespace Dealership.Models {
   {
     private string _makeModel;
     private int _price;
-    private int _miles;
-
-    
+    private int _miles; 
 
     public Car(string makeModel, int price, int miles)
     {
