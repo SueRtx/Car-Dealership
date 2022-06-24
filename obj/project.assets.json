@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sunyo\\Desktop\\Car-Dealership\\CarDealership.csproj",
+      "projectUniqueName": "C:\\Users\\sunyo\\Desktop\\C#\\Car-Dealership\\CarDealership.csproj",
       "projectName": "CarDealership",
-      "projectPath": "C:\\Users\\sunyo\\Desktop\\Car-Dealership\\CarDealership.csproj",
+      "projectPath": "C:\\Users\\sunyo\\Desktop\\C#\\Car-Dealership\\CarDealership.csproj",
       "packagesPath": "C:\\Users\\sunyo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sunyo\\Desktop\\Car-Dealership\\obj\\",
+      "outputPath": "C:\\Users\\sunyo\\Desktop\\C#\\Car-Dealership\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sunyo\\AppData\\Roaming\\NuGet\\NuGet.Config"
